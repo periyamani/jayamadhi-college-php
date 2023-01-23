@@ -117,7 +117,7 @@
                                 </div>
                             </div>
                         </div> -->
-                        <div class="col-md-8 col-sm-12" style="text-align:center;">
+                        <div class="col-md-10 col-sm-12" style="text-align:center;">
                             <div class="">
                                 <a href="#"><img src="images/logo111.png" alt="logo" class="firstlogo">
 
@@ -126,16 +126,16 @@
                                     </p>
                                     <p class="logotext3"><b>(Affiliated to the Tamil Nadu Dr.M.G.R. Medical University, Chennai.)</b>
                                     </p>
-                                    <p class="logotext4"><b>(A Group Of SRG Engineering College Namakkal)</b>
+                                    <!-- <p class="logotext4"><b>(A Group Of SRG Engineering College Namakkal)</b>
                                     </p>
-                                    <p class="logo-t"><b> <i class="fa fa-envelope" aria-hidden="true"></i> <a class="a-h" href="mailto:jayamadhiahs@gmail.com">jayamadhiahs@gmail.com </a> <i class="fa fa-phone" style="color: #0554a1;" aria-hidden="true"></i> <a class="a-h" href="tel:+3453-909-6565">+75581 24333</a>,<a class="a-h" href="tel:+2390-875-2235">+73395 16669</a></b>
-                                    </p>
+                                    <p class="logo-t"><b> <i class="fa fa-envelope" aria-hidden="true"></i> <a class="a-h" href="mailto:jayamadhiahs@gmail.com">jayamadhiahs@gmail.com </a>  <i class="fa fa-phone" style="color: #0554a1;" aria-hidden="true"></i> <a class="a-h" href="tel:+3453-909-6565">+75581 24333</a> , <a class="a-h" href="tel:+2390-875-2235">+73395 16669</a></b>
+                                    </p> -->
                                 </a>
                             </div>
                         </div>
-                        <div class="col-md-4 col-sm-12">
+                        <div class="col-md-2 col-sm-12">
                             <div class="header-contact pull-right">
-                                 <div id="phone-details" class="pt-4 widget-text">
+                                 <div id="phone-details" class="pt-4 ">
                                     <!-- <i class="glyph-icon flaticon-phone-call"></i> -->
                                     <div class="info-text">
                                         <!-- <a href="tel:4155551234">
@@ -144,7 +144,7 @@
                                         <!-- <div class="news-btn">
                                             <a href="#">Read More</a>
                                         </div> -->
-                                        <button class="button" data-toggle="modal" data-target="#form">Admission Enquiry</button>
+                                        <button class="button-top" data-toggle="modal" data-target="#form">Admission Enquiry</button>
                                         <p class="u-code">University code 851</p>
                                     </div>
                                 </div>
